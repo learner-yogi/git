@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "just doing some rivision",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learner-yogi/git.git"
+  },
+  "author": "yogesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learner-yogi/git/issues"
+  },
+  "homepage": "https://github.com/learner-yogi/git#readme",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
